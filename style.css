@@ -1,3 +1,10 @@
+body{
+    background-color: lavenderblush;
+    color: palevioletred;
+}
+h3{
+    color: forestgreen;
+}
 h1 {
 	font-size: 60px;
 	font-weight: normal;
@@ -11,6 +18,11 @@ h2 {
 	font-weight: normal;
 	margin: 0;
 	color: #FFB000;
-    font-family: 'Chelsea Market', Georgia, serif;
+	font-family: 'Chelsea Market', Georgia, serif;
 	text-transform: lowercase;
+}
+h2{
+    padding-bottom: 16px;
+	padding-left: 12px;
+
 }
