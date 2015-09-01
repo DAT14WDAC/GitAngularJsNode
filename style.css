@@ -6,3 +6,11 @@ h1 {
     color: #000;
 	line-height: 1;
 }
+h2 {
+	font-size: 70px;
+	font-weight: normal;
+	margin: 0;
+	color: #FFB000;
+    font-family: 'Chelsea Market', Georgia, serif;
+	text-transform: lowercase;
+}
